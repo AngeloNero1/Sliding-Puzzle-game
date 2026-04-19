@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.AssemblyInfo.cs
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\bin\Debug\net8.0\slidingpuzzleconsole.exe
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\bin\Debug\net8.0\slidingpuzzleconsole.deps.json
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\bin\Debug\net8.0\slidingpuzzleconsole.runtimeconfig.json
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\bin\Debug\net8.0\slidingpuzzleconsole.dll
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\bin\Debug\net8.0\slidingpuzzleconsole.pdb
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.dll
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\refint\slidingpuzzleconsole.dll
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.pdb
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\slidingpuzzleconsole.genruntimeconfig.cache
+C:\Users\USER\Desktop\C# dersleri\slidingpuzzleconsole\slidingpuzzleconsole\obj\Debug\net8.0\ref\slidingpuzzleconsole.dll
