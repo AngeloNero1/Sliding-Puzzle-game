@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|c:\\users\\user\\desktop\\c# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|solutionrelative:slidingpuzzlebeginner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|solutionrelative:slidingpuzzlebeginner\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|solutionrelative:slidingpuzzlebeginner\\gamewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|solutionrelative:slidingpuzzlebeginner\\gamewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86C449E-B239-44E9-9B2B-94F55C61DC39}|slidingpuzzlebeginner\\slidingpuzzlebeginner.csproj|solutionrelative:slidingpuzzlebeginner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "musicmanager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\musicmanager.cs",
+              "RelativeDocumentMoniker": "slidingpuzzlebeginner\\musicmanager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\musicmanager.cs",
+              "RelativeToolTip": "slidingpuzzlebeginner\\musicmanager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0AAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:47:03.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\GameWindow.xaml",
+              "RelativeDocumentMoniker": "slidingpuzzlebeginner\\GameWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\GameWindow.xaml",
+              "RelativeToolTip": "slidingpuzzlebeginner\\GameWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T12:27:11.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\GameWindow.xaml.cs",
+              "RelativeDocumentMoniker": "slidingpuzzlebeginner\\GameWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\GameWindow.xaml.cs",
+              "RelativeToolTip": "slidingpuzzlebeginner\\GameWindow.xaml.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAIAwwAIBAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "slidingpuzzlebeginner\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\MainWindow.xaml",
+              "RelativeToolTip": "slidingpuzzlebeginner\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-23T12:25:37.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "slidingpuzzlebeginner\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\C# dersleri\\slidingpuzzlebeginner\\slidingpuzzlebeginner\\MainWindow.xaml.cs",
+              "RelativeToolTip": "slidingpuzzlebeginner\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:25:36.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
