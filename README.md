@@ -1,108 +1,48 @@
-# 🧩 Sliding Puzzle Game (C# / WPF)
+🧩 3x3 Sliding Puzzle (8-Puzzle) Game in C
+Bu proje, C programlama dili kullanılarak geliştirilmiş konsol tabanlı bir 8-Puzzle oyunudur. Proje, İzmir Bakırçay Üniversitesi Bilgisayar Mühendisliği Bölümü BİL1203 - Mühendislikte Proje Yönetimi dersi kapsamında geliştirilmiştir.
 
-A simple and interactive **3x3 Sliding Puzzle Game** developed using **C# and WPF**.
-This project demonstrates core programming concepts such as **2D arrays, game logic, and GUI development**.
+📝 Proje Hakkında
+Oyun, 3x3'lük bir matris üzerinde 1'den 8'e kadar olan sayıların rastgele karıştırılmasıyla başlar. Amaç, boş hücreyi kullanarak sayıları 1'den 8'e kadar sıralı hale getirmektir.
 
----
+Temel Özellikler:
+Matematiksel Doğruluk: Oyun, sadece çözülebilir (solvable) tablolar üretir. (Inversion Count algoritması kullanılmıştır).
 
-## 🚀 Features
+Hata Kontrolü: Kullanıcı harf veya geçersiz bir karakter girdiğinde sistem çökmez, giriş tamponunu (input buffer) temizleyerek yeni giriş bekler.
 
-* 🎮 Classic **3x3 sliding puzzle**
-* 🔀 Randomized board (shuffle)
-* ✅ Valid move control (only adjacent tiles can move)
-* 🧠 Win condition detection
-* 🖥️ Simple and clean **WPF interface**
-* ⚡ Real-time UI updates
+Dinamik Takip: Oyun sırasında toplam hamle sayısı anlık olarak gösterilir.
 
----
+Modüler Yapı: Kod; karıştırma, kontrol, hareket ve çizim gibi mantıksal parçalara (fonksiyonlara) bölünerek yazılmıştır.
 
-## 🛠️ Technologies Used
+🚀 Nasıl Çalıştırılır?
+Projeyi bilgisayarınızda çalıştırmak için bir C derleyicisine (GCC, Clang, Visual Studio vb.) ihtiyacınız vardır.
 
-* **C#**
-* **.NET (WPF)**
-* **XAML (UI Design)**
+Bu depoyu klonlayın veya kodu indirin.
 
----
+Terminali/Komut satırını açın.
 
-## 📸 Preview
+Aşağıdaki komutları kullanarak derleyin ve çalıştırın:
 
-*(You can add screenshots here later)*
+Bash
+gcc main.c -o puzzle
+./puzzle
+🛠️ Kullanılan Teknolojiler ve Algoritmalar
+Dil: C
 
----
+Veri Yapısı: 2D Array (Matris)
 
-## 📂 Project Structure
+Karıştırma: Fisher-Yates Shuffle Algoritması
 
-```
-SlidingPuzzle/
-│
-├── Puzzle.cs          # Game logic (board, shuffle, moves)
-├── GameWindow.xaml    # UI layout
-├── GameWindow.xaml.cs # UI interactions
-└── App.xaml           # Application startup
-```
+Mantık: Durum tabanlı kontrol (State-based control) ve Pointer kullanımı.
 
----
+🕹️ Nasıl Oynanır?
+Oyun başladığında karşınıza karışık bir tablo gelir.
 
-## 🎯 How It Works
+Hareket ettirmek istediğiniz sayıyı (1-8 arası) girip Enter tuşuna basın.
 
-* The game uses a **2D array (3x3)** to represent the board.
-* One cell is empty (`0`) and allows movement.
-* A tile can only move if it is **adjacent to the empty space**.
-* The goal is to arrange numbers in order:
+Sadece boşluğun yanındaki (sağ, sol, üst, alt) sayılar hareket edebilir.
 
-```
-1 2 3
-4 5 6
-7 8 0
-```
+Sayıları şu düzene getirdiğinizde oyunu kazanırsınız:
 
----
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/AngeloNero1/Sliding-Puzzle-game.git
-```
-
-2. Open the project in **Visual Studio**
-
-3. Run the project:
-
-```bash
-dotnet run
-```
-
----
-
-## 🧠 Learning Purpose
-
-This project was built to practice:
-
-* 2D array manipulation
-* Object-Oriented Programming (OOP)
-* WPF UI development
-* Event-driven programming
-
----
-
-## 🔮 Future Improvements
-
-* ⏱️ Timer system
-* 🔁 Restart button
-* 🖼️ Image-based puzzle
-* 🎵 Background music
-* 🧩 Different grid sizes (4x4, 5x5)
-
----
-
-## 👤 Author
-
-* GitHub: https://github.com/AngeloNero1
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
+ 1  2  3 
+ 4  5  6 
+ 7  8    
